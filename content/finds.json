@@ -1798,5 +1798,545 @@
     "hook": "Snow off the car roof in two minutes",
     "why": "The long handle reaches the whole roof and windshield. Keep it in the back seat so it's there on snowy days.",
     "board": "Amazon Home Finds"
+  },
+  {
+    "id": "magnetic-grocery-list-pad",
+    "name": "Magnetic grocery list notepad",
+    "search": "magnetic grocery list notepad for fridge",
+    "category": "kitchen",
+    "hook": "Write it down the second it runs out",
+    "why": "Hang it where you notice the milk is gone. Tear off the list on the way out and the store trip stops relying on memory.",
+    "board": "ADHD Home Organization"
+  },
+  {
+    "id": "over-sink-dish-rack",
+    "name": "Over-the-sink dish drying rack",
+    "search": "adjustable over the sink dish drying rack",
+    "category": "kitchen",
+    "hook": "Your counter called. It wants to be seen.",
+    "why": "Dishes drip right into the sink, so the counter stays clear. Washing and drying happen in one spot with no extra step.",
+    "board": "Small Space Organizing"
+  },
+  {
+    "id": "baking-canisters",
+    "name": "Airtight flour and sugar canisters",
+    "search": "airtight flour and sugar storage containers set",
+    "category": "kitchen",
+    "hook": "Holiday baking without the flour avalanche",
+    "why": "Wide mouths fit a measuring cup, and clear sides show when you're low. Cookie day starts faster when nothing needs digging out.",
+    "board": "Amazon Home Finds"
+  },
+  {
+    "id": "under-shelf-mug-hooks",
+    "name": "Under-shelf mug hooks",
+    "search": "under cabinet mug hooks no drill",
+    "category": "kitchen",
+    "hook": "Free up a whole shelf in two minutes",
+    "why": "Slide them onto a cabinet shelf and hang mugs underneath. Your favorite mug is always in sight and the shelf above gets room back.",
+    "board": "Small Space Organizing"
+  },
+  {
+    "id": "casserole-carrier",
+    "name": "Insulated casserole carrier",
+    "search": "insulated casserole carrier for potluck dish",
+    "category": "kitchen",
+    "hook": "Get the potluck dish there still warm",
+    "why": "Zip the dish in, grab the handles, done. No foil juggling in the car on the way to Thanksgiving dinner.",
+    "board": "Amazon Home Finds"
+  },
+  {
+    "id": "sock-drying-hanger",
+    "name": "Hanging clip drying rack for socks",
+    "search": "hanging sock drying rack with clips",
+    "category": "laundry",
+    "hook": "Every single sock dries in one spot",
+    "why": "Clip socks and small things on as they come out of the washer. They dry together, so they get folded together.",
+    "board": "Amazon Home Finds"
+  },
+  {
+    "id": "stain-remover-pen",
+    "name": "Portable stain remover pen",
+    "search": "portable stain remover pen for clothes",
+    "category": "laundry",
+    "hook": "Fix the spill before it becomes a stain",
+    "why": "Keep one in your bag and one by the hamper. Dab it right away and there's no stain to remember on laundry day.",
+    "board": "ADHD Cleaning Tips"
+  },
+  {
+    "id": "wall-drying-rack",
+    "name": "Wall-mounted folding drying rack",
+    "search": "wall mounted collapsible clothes drying rack",
+    "category": "laundry",
+    "hook": "The drying rack that folds flat to the wall",
+    "why": "Pull it down for sweaters, fold it up when you're done. No rack to trip over and no hunting for where you stored it.",
+    "board": "Small Space Organizing"
+  },
+  {
+    "id": "dye-trapping-sheets",
+    "name": "Dye-trapping laundry sheets",
+    "search": "color catching sheets for laundry mixed loads",
+    "category": "laundry",
+    "hook": "Wash it all together. No pink shirts.",
+    "why": "Toss one in and the loose dye sticks to the sheet, not your whites. Fewer loads to sort means laundry is easier to start.",
+    "board": "ADHD Cleaning Tips"
+  },
+  {
+    "id": "fabric-shaver",
+    "name": "Rechargeable fabric shaver",
+    "search": "rechargeable fabric shaver lint remover for sweaters",
+    "category": "laundry",
+    "hook": "Your pilled sweater isn't done yet",
+    "why": "A few passes and the fuzz is gone. Bring back a cozy favorite in minutes instead of adding it to the someday-donate pile.",
+    "board": "Amazon Home Finds"
+  },
+  {
+    "id": "towel-warmer-bucket",
+    "name": "Towel warmer bucket",
+    "search": "towel warmer bucket for bathroom",
+    "category": "bathroom",
+    "hook": "A warm towel is a great reason to shower",
+    "why": "Pop a towel in before you get in the shower. On cold mornings, a warm towel waiting makes the whole routine easier to start.",
+    "board": "Amazon Home Finds"
+  },
+  {
+    "id": "shower-caddy-tote",
+    "name": "Portable shower caddy tote",
+    "search": "portable mesh shower caddy tote with handle",
+    "category": "bathroom",
+    "hook": "Your whole shower routine in one tote",
+    "why": "Everything you need goes in, comes out and drains. Great for shared bathrooms or guests staying over the holidays.",
+    "board": "Small Space Organizing"
+  },
+  {
+    "id": "suction-razor-holder",
+    "name": "Suction cup razor holder",
+    "search": "suction cup razor holder for shower wall",
+    "category": "bathroom",
+    "hook": "Get the razor off the slippery ledge",
+    "why": "It sticks to the tile at eye level. The razor dries between uses and you always know where to reach for it.",
+    "board": "Small Space Organizing"
+  },
+  {
+    "id": "rotating-skincare-tower",
+    "name": "Rotating skincare organizer tower",
+    "search": "rotating skincare organizer tower for bathroom counter",
+    "category": "bathroom",
+    "hook": "Spin it and find the serum you forgot",
+    "why": "Everything faces out, so nothing hides in the back. One spin shows you all of it, and the counter holds more in less space.",
+    "board": "ADHD Home Organization"
+  },
+  {
+    "id": "shower-timer",
+    "name": "Waterproof shower timer",
+    "search": "waterproof suction cup shower timer clock",
+    "category": "bathroom",
+    "hook": "Where did the last 25 minutes go?",
+    "why": "Stick it on the shower wall at eye level. Seeing the time makes it easier to get out and keep the morning on track.",
+    "board": "ADHD Home Organization"
+  },
+  {
+    "id": "boot-glove-dryer",
+    "name": "Electric boot and glove dryer",
+    "search": "electric boot and glove dryer for winter",
+    "category": "entryway",
+    "hook": "Dry boots and gloves by morning",
+    "why": "Wet gear goes on the dryer by the door at night. In the morning everything is warm, dry and in one place.",
+    "board": "Amazon Home Finds"
+  },
+  {
+    "id": "entry-mirror-hooks",
+    "name": "Entryway mirror with hooks",
+    "search": "entryway wall mirror with hooks for keys",
+    "category": "entryway",
+    "hook": "Last-look mirror and key hook in one",
+    "why": "Check your face, grab your keys, head out. One spot by the door covers the last two things we always forget.",
+    "board": "ADHD Home Organization"
+  },
+  {
+    "id": "stair-basket",
+    "name": "Stair basket with handle",
+    "search": "stair basket for carrying items upstairs",
+    "category": "entryway",
+    "hook": "Stuff goes upstairs in one trip",
+    "why": "Things that belong upstairs land in the basket. Carry it up when you're going anyway and the bottom step stays clear.",
+    "board": "ADHD Home Organization"
+  },
+  {
+    "id": "motion-stair-lights",
+    "name": "Battery motion sensor lights",
+    "search": "battery motion sensor lights for stairs hallway",
+    "category": "entryway",
+    "hook": "Dark at 5pm? Light up the way in.",
+    "why": "They turn on as you walk in, no switch to find with full hands. Stick them anywhere, no wiring needed.",
+    "board": "Amazon Home Finds"
+  },
+  {
+    "id": "over-door-glove-organizer",
+    "name": "Over-door hat and glove organizer",
+    "search": "over the door hat and glove organizer pockets",
+    "category": "entryway",
+    "hook": "Matching mittens, right by the door",
+    "why": "Each person gets a pocket for hats, gloves and scarves. Winter gear has a home you can see, so it stops ending up on the floor.",
+    "board": "Small Space Organizing"
+  },
+  {
+    "id": "zippered-duvet-cover",
+    "name": "Zippered duvet cover",
+    "search": "zipper duvet cover easy to put on",
+    "category": "bedroom",
+    "hook": "Change the duvet without the wrestling",
+    "why": "A zipper along the side means no crawling inside the cover. Bed changing goes from dreaded to doable.",
+    "board": "ADHD Home Organization"
+  },
+  {
+    "id": "sheet-holder-straps",
+    "name": "Bed sheet holder straps",
+    "search": "bed sheet holder straps suspenders",
+    "category": "bedroom",
+    "hook": "Sheets that stay on the bed all night",
+    "why": "Clip the straps under the corners and the fitted sheet stops popping off. One less job waiting for you in the morning.",
+    "board": "Amazon Home Finds"
+  },
+  {
+    "id": "wall-garment-rack",
+    "name": "Wall-mounted clothes rack",
+    "search": "wall mounted clothes rack for bedroom",
+    "category": "bedroom",
+    "hook": "A real home for the worn-once clothes",
+    "why": "Jeans you'll wear again go on the rack, not the chair. You can see them, grab them, and the chair is a chair again.",
+    "board": "Small Space Organizing"
+  },
+  {
+    "id": "under-bed-motion-light",
+    "name": "Motion sensor under-bed light strip",
+    "search": "motion sensor under bed night light strip",
+    "category": "bedroom",
+    "hook": "Find the floor at 2am without stubbing",
+    "why": "A soft glow turns on when your feet hit the floor. No fumbling for a lamp and no tripping over the laundry basket.",
+    "board": "Amazon Home Finds"
+  },
+  {
+    "id": "under-bed-shoe-organizer",
+    "name": "Under-bed shoe organizer",
+    "search": "under bed shoe storage organizer with clear lid",
+    "category": "bedroom",
+    "hook": "Shoes out of sight but never lost",
+    "why": "Clear lids show every pair from above. Slide it out, grab your shoes, slide it back. The floor stays clear.",
+    "board": "Small Space Organizing"
+  },
+  {
+    "id": "closet-size-dividers",
+    "name": "Closet hanger dividers",
+    "search": "closet hanger dividers labels for clothes categories",
+    "category": "closet",
+    "hook": "Find the work pants without the dig",
+    "why": "Label each section once, and every category has a spot. Putting clothes back gets easier when the closet tells you where.",
+    "board": "ADHD Home Organization"
+  },
+  {
+    "id": "hanger-stacker",
+    "name": "Hanger stacker organizer",
+    "search": "hanger stacker organizer for empty hangers",
+    "category": "closet",
+    "hook": "Empty hangers, finally in one place",
+    "why": "Drop empty hangers on the stacker as you get dressed. No tangled pile and hangers are ready when the laundry is.",
+    "board": "ADHD Home Organization"
+  },
+  {
+    "id": "boot-shapers",
+    "name": "Tall boot shaper inserts",
+    "search": "tall boot shaper inserts for closet storage",
+    "category": "closet",
+    "hook": "Tall boots that stand up, not flop",
+    "why": "Slide them in and boots stand upright all season. They stay easy to grab and stop taking over the closet floor.",
+    "board": "Amazon Home Finds"
+  },
+  {
+    "id": "hanging-jewelry-organizer",
+    "name": "Hanging jewelry organizer with clear pockets",
+    "search": "hanging jewelry organizer with clear pockets",
+    "category": "closet",
+    "hook": "Every earring visible, zero tangles",
+    "why": "Hang it in the closet and drop each piece in its own pocket. If you can see it, you'll wear it.",
+    "board": "ADHD Home Organization"
+  },
+  {
+    "id": "clear-garment-bags",
+    "name": "Clear hanging garment bags",
+    "search": "clear hanging garment bags for coats",
+    "category": "closet",
+    "hook": "Store the coats but still see them",
+    "why": "Off-season coats and holiday dresses stay dust-free and in sight. No guessing which bag hides the outfit you want.",
+    "board": "Small Space Organizing"
+  },
+  {
+    "id": "disposable-toilet-wand",
+    "name": "Toilet wand with disposable heads",
+    "search": "disposable toilet bowl cleaning wand with refills",
+    "category": "cleaning",
+    "hook": "Scrub the toilet, skip the gross brush",
+    "why": "Click on a head, scrub, toss it. No dripping brush to deal with, so the job feels small enough to start.",
+    "board": "ADHD Cleaning Tips"
+  },
+  {
+    "id": "spin-mop-bucket",
+    "name": "Spin mop and bucket set",
+    "search": "spin mop and bucket set with wringer",
+    "category": "cleaning",
+    "hook": "Wring the mop without touching it",
+    "why": "Step on the pedal and the mop spins dry. Fewer gross steps makes mopping much easier to start on a tired day.",
+    "board": "ADHD Cleaning Tips"
+  },
+  {
+    "id": "crevice-brush-set",
+    "name": "Crevice cleaning brush set",
+    "search": "crevice cleaning brush set for small gaps",
+    "category": "cleaning",
+    "hook": "For the gunk in the tiny corners",
+    "why": "Thin bristles reach window tracks, faucet bases and stove edges. Those annoying spots take minutes, not a whole afternoon.",
+    "board": "ADHD Cleaning Tips"
+  },
+  {
+    "id": "under-appliance-duster",
+    "name": "Under-appliance microfiber duster",
+    "search": "flexible under appliance microfiber duster",
+    "category": "cleaning",
+    "hook": "Meet the dust bunnies under your fridge",
+    "why": "The thin flexible wand slides under the fridge and couch. One swipe pulls out what's been hiding there.",
+    "board": "ADHD Cleaning Tips"
+  },
+  {
+    "id": "carpet-sweeper",
+    "name": "Manual carpet sweeper",
+    "search": "manual carpet sweeper for crumbs and rugs",
+    "category": "cleaning",
+    "hook": "Crumb cleanup with no cord or charger",
+    "why": "Push it across the rug after dinner and the crumbs are gone. It's quiet, light and always ready to go.",
+    "board": "Amazon Home Finds"
+  },
+  {
+    "id": "photo-storage-box",
+    "name": "Photo storage box with inner cases",
+    "search": "photo storage box with inner cases",
+    "category": "paper",
+    "hook": "School photos out of the junk drawer",
+    "why": "Each small case holds a year or a kid. Label it once and the photo piles finally have one home.",
+    "board": "ADHD Home Organization"
+  },
+  {
+    "id": "kids-art-portfolio",
+    "name": "Kids artwork storage portfolio",
+    "search": "kids artwork storage portfolio folder",
+    "category": "paper",
+    "hook": "Keep the art, lose the paper piles",
+    "why": "One portfolio per kid, per year. The art stays safe and flat, and the fridge has space for the new masterpieces.",
+    "board": "ADHD Home Organization"
+  },
+  {
+    "id": "fireproof-document-bag",
+    "name": "Fireproof document bag",
+    "search": "fireproof document bag for important papers",
+    "category": "paper",
+    "hook": "Every important paper in one bag",
+    "why": "Passports, birth certificates and the car title live together. When you need one, you know exactly where it is.",
+    "board": "ADHD Home Organization"
+  },
+  {
+    "id": "return-address-stamp",
+    "name": "Self-inking return address stamp",
+    "search": "custom self inking return address stamp",
+    "category": "paper",
+    "hook": "Holiday cards addressed in half the time",
+    "why": "Stamp, stamp, stamp. No more writing your address 40 times, so the card stack actually gets mailed.",
+    "board": "Amazon Home Finds"
+  },
+  {
+    "id": "gift-card-organizer",
+    "name": "Gift card holder organizer",
+    "search": "gift card holder organizer wallet",
+    "category": "paper",
+    "hook": "Find every gift card you got last year",
+    "why": "All the cards slide into one small holder. Keep it in your bag and you'll remember to use them before they vanish.",
+    "board": "Amazon Home Finds"
+  },
+  {
+    "id": "brick-storage-drawers",
+    "name": "Building brick storage drawers",
+    "search": "stackable building brick storage drawers for kids",
+    "category": "kids",
+    "hook": "Brick-free floors, kid-friendly drawers",
+    "why": "Sort by color into clear drawers kids can open themselves. Clean-up becomes a matching game they can finish alone.",
+    "board": "Small Space Organizing"
+  },
+  {
+    "id": "drawer-picture-labels",
+    "name": "Picture labels for kids clothes drawers",
+    "search": "picture labels for kids clothes drawers",
+    "category": "kids",
+    "hook": "Kids put clothes away when they can see",
+    "why": "Picture labels show what goes in each drawer, even for kids who can't read yet. Less asking, more putting away.",
+    "board": "ADHD Home Organization"
+  },
+  {
+    "id": "dress-up-rack",
+    "name": "Kids dress-up clothes rack",
+    "search": "kids dress up clothes rack with mirror",
+    "category": "kids",
+    "hook": "Dress-up clothes off the floor for good",
+    "why": "Costumes hang where kids can reach them. They can see every option, so they pull out one thing instead of the whole bin.",
+    "board": "Small Space Organizing"
+  },
+  {
+    "id": "kids-wake-up-clock",
+    "name": "Color-changing kids wake-up clock",
+    "search": "kids sleep training clock with color light",
+    "category": "kids",
+    "hook": "A light that says: yes, it's morning",
+    "why": "Green means time to get up. Kids can see when it's okay to leave their room, so early mornings get calmer for everyone.",
+    "board": "Amazon Home Finds"
+  },
+  {
+    "id": "kids-snack-bins",
+    "name": "Clear kids snack organizer bins",
+    "search": "clear snack organizer bins for kids pantry",
+    "category": "kids",
+    "hook": "A snack station kids run on their own",
+    "why": "Fill the bins once a week. Kids grab their own snacks from one shelf, and lunch packing goes quicker too.",
+    "board": "ADHD Home Organization"
+  },
+  {
+    "id": "days-countdown-clock",
+    "name": "Digital day countdown clock",
+    "search": "digital countdown clock days until event",
+    "category": "time",
+    "hook": "Days until the trip, right on the shelf",
+    "why": "A big number counting down makes time real. Great for holidays, trips and deadlines that sneak up on us.",
+    "board": "Amazon Home Finds"
+  },
+  {
+    "id": "runaway-alarm-clock",
+    "name": "Rolling runaway alarm clock",
+    "search": "rolling runaway alarm clock on wheels",
+    "category": "time",
+    "hook": "An alarm you have to chase to snooze",
+    "why": "It rolls off the nightstand when it rings. By the time you catch it, you're out of bed and the morning has started.",
+    "board": "Amazon Home Finds"
+  },
+  {
+    "id": "multi-channel-timer",
+    "name": "Multi-channel kitchen timer",
+    "search": "multi channel digital kitchen timer",
+    "category": "time",
+    "hook": "Three dishes, three timers, zero burnt rolls",
+    "why": "Run separate timers at once for the turkey, sides and rolls. Hosting gets easier when the timer remembers for you.",
+    "board": "Amazon Home Finds"
+  },
+  {
+    "id": "chore-wheel",
+    "name": "Rotating family chore wheel",
+    "search": "rotating chore wheel for family",
+    "category": "time",
+    "hook": "Spin the wheel, skip the chore debate",
+    "why": "Turn it once a week and everyone sees their job. No arguing, no remembering whose turn it was.",
+    "board": "ADHD Home Organization"
+  },
+  {
+    "id": "door-reminder-board",
+    "name": "Dry-erase door hanger reminder",
+    "search": "dry erase door hanger reminder board",
+    "category": "time",
+    "hook": "Remember it on your way out the door",
+    "why": "Write the thing you'll forget and hang it on the doorknob. You have to touch it to leave, so you actually see it.",
+    "board": "ADHD Home Organization"
+  },
+  {
+    "id": "cable-labels",
+    "name": "Reusable cable label tags",
+    "search": "reusable cable label tags for cords",
+    "category": "desk",
+    "hook": "Know which plug is which, instantly",
+    "why": "Label each cord once. Unplugging the right thing stops being a guessing game behind the desk.",
+    "board": "ADHD Home Organization"
+  },
+  {
+    "id": "clamp-power-strip",
+    "name": "Desk clamp power strip with USB",
+    "search": "desk clamp power strip with usb ports",
+    "category": "desk",
+    "hook": "Plug in without crawling under the desk",
+    "why": "It clamps to the edge of the desk, right where you need it. Charging is easy, so it actually happens.",
+    "board": "Small Space Organizing"
+  },
+  {
+    "id": "mini-desk-trash",
+    "name": "Mini desktop trash can with lid",
+    "search": "mini desktop trash can with lid",
+    "category": "desk",
+    "hook": "A tiny trash can for the wrapper pile",
+    "why": "Keep it within arm's reach. Wrappers and sticky notes go straight in instead of piling up next to the keyboard.",
+    "board": "Amazon Home Finds"
+  },
+  {
+    "id": "desktop-hutch",
+    "name": "Desktop bookshelf hutch",
+    "search": "desktop bookshelf hutch organizer",
+    "category": "desk",
+    "hook": "Desk stuff up, desk space back",
+    "why": "Notebooks and supplies move to the shelves above. The work surface clears up and everything stays in view.",
+    "board": "Small Space Organizing"
+  },
+  {
+    "id": "acrylic-desk-drawers",
+    "name": "Clear acrylic desk organizer with drawers",
+    "search": "clear acrylic desktop organizer with drawers",
+    "category": "desk",
+    "hook": "See every pen without opening a drawer",
+    "why": "Clear drawers show what's inside at a glance. Supplies stay put away but never forgotten.",
+    "board": "ADHD Home Organization"
+  },
+  {
+    "id": "winter-car-kit",
+    "name": "Winter car emergency kit",
+    "search": "winter car emergency kit with blanket",
+    "category": "car",
+    "hook": "The winter car kit you'll be glad you packed",
+    "why": "Blanket, gloves, scraper and flashlight in one bag. Toss it in the trunk once and winter surprises are covered.",
+    "board": "Amazon Home Finds"
+  },
+  {
+    "id": "trunk-cargo-net",
+    "name": "Trunk cargo net",
+    "search": "trunk cargo net for groceries",
+    "category": "car",
+    "hook": "Groceries that stay put in the trunk",
+    "why": "Bags stay upright on the drive home. No more chasing oranges across the trunk after every store run.",
+    "board": "Amazon Home Finds"
+  },
+  {
+    "id": "all-weather-floor-mats",
+    "name": "All-weather car floor mats",
+    "search": "all weather car floor mats trim to fit",
+    "category": "car",
+    "hook": "Snow and salt stay on the mat",
+    "why": "Deep edges hold slush and road salt. Pull them out, rinse them off, and the carpet underneath stays clean.",
+    "board": "Amazon Home Finds"
+  },
+  {
+    "id": "retractable-car-charger",
+    "name": "Retractable car charger cable",
+    "search": "retractable car charger cable multi device",
+    "category": "car",
+    "hook": "No more tangled cords in the cup holder",
+    "why": "The cord pulls out when you need it and zips back when you don't. Your phone gets charged and the console stays clear.",
+    "board": "Amazon Home Finds"
+  },
+  {
+    "id": "windshield-inside-cleaner",
+    "name": "Inside windshield cleaning tool",
+    "search": "inside windshield cleaning tool long handle",
+    "category": "car",
+    "hook": "Wipe the inside fog off in seconds",
+    "why": "The angled head reaches the corners of the windshield. Clear glass on cold mornings without climbing over the seat.",
+    "board": "Amazon Home Finds"
   }
 ]
